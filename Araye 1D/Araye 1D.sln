@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Araye 1D", "Araye 1D.csproj", "{98C5DED0-C356-4C1A-B517-CED48DD43303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C5DED0-C356-4C1A-B517-CED48DD43303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C5DED0-C356-4C1A-B517-CED48DD43303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C5DED0-C356-4C1A-B517-CED48DD43303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C5DED0-C356-4C1A-B517-CED48DD43303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31EBFE19-E185-406A-B808-174056CCF884}
+	EndGlobalSection
+EndGlobal

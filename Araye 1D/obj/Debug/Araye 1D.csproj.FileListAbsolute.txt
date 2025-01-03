@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Araye 1D\bin\Debug\Araye 1D.exe.config
+C:\Users\Day 2 Day\Desktop\Araye 1D\bin\Debug\Araye 1D.exe
+C:\Users\Day 2 Day\Desktop\Araye 1D\bin\Debug\Araye 1D.pdb
+C:\Users\Day 2 Day\Desktop\Araye 1D\obj\Debug\Araye 1D.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Araye 1D\obj\Debug\Araye 1D.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Araye 1D\obj\Debug\Araye 1D.exe
+C:\Users\Day 2 Day\Desktop\Araye 1D\obj\Debug\Araye 1D.pdb
