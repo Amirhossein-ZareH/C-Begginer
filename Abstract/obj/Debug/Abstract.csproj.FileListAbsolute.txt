@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\Day 2 Day\Desktop\Abstract\bin\Debug\Abstract.exe
+C:\Users\Day 2 Day\Desktop\Abstract\bin\Debug\Abstract.pdb
+C:\Users\Day 2 Day\Desktop\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Abstract\obj\Debug\Abstract.exe
+C:\Users\Day 2 Day\Desktop\Abstract\obj\Debug\Abstract.pdb
