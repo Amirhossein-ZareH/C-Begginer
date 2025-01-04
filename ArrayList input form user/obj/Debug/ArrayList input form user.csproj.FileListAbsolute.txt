@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\ArrayList input form user\bin\Debug\ArrayList input form user.exe.config
+C:\Users\Day 2 Day\Desktop\ArrayList input form user\bin\Debug\ArrayList input form user.exe
+C:\Users\Day 2 Day\Desktop\ArrayList input form user\bin\Debug\ArrayList input form user.pdb
+C:\Users\Day 2 Day\Desktop\ArrayList input form user\obj\Debug\ArrayList input form user.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\ArrayList input form user\obj\Debug\ArrayList input form user.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\ArrayList input form user\obj\Debug\ArrayList input form user.exe
+C:\Users\Day 2 Day\Desktop\ArrayList input form user\obj\Debug\ArrayList input form user.pdb

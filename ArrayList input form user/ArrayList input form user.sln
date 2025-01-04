@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList input form user", "ArrayList input form user.csproj", "{2ACADF6D-EB20-4DB9-B9ED-0B900755628C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ACADF6D-EB20-4DB9-B9ED-0B900755628C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACADF6D-EB20-4DB9-B9ED-0B900755628C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACADF6D-EB20-4DB9-B9ED-0B900755628C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACADF6D-EB20-4DB9-B9ED-0B900755628C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0067AC5F-DE6D-4108-87C8-CB21BBB33314}
+	EndGlobalSection
+EndGlobal
