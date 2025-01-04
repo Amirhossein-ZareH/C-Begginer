@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Arraye 1D Length\bin\Debug\Arraye 1D Length.exe.config
+C:\Users\Day 2 Day\Desktop\Arraye 1D Length\bin\Debug\Arraye 1D Length.exe
+C:\Users\Day 2 Day\Desktop\Arraye 1D Length\bin\Debug\Arraye 1D Length.pdb
+C:\Users\Day 2 Day\Desktop\Arraye 1D Length\obj\Debug\Arraye 1D Length.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Arraye 1D Length\obj\Debug\Arraye 1D Length.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Arraye 1D Length\obj\Debug\Arraye 1D Length.exe
+C:\Users\Day 2 Day\Desktop\Arraye 1D Length\obj\Debug\Arraye 1D Length.pdb
