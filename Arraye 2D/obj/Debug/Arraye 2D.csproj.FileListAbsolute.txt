@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Arraye 2D\bin\Debug\Arraye 2D.exe.config
+C:\Users\Day 2 Day\Desktop\Arraye 2D\bin\Debug\Arraye 2D.exe
+C:\Users\Day 2 Day\Desktop\Arraye 2D\bin\Debug\Arraye 2D.pdb
+C:\Users\Day 2 Day\Desktop\Arraye 2D\obj\Debug\Arraye 2D.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Arraye 2D\obj\Debug\Arraye 2D.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Arraye 2D\obj\Debug\Arraye 2D.exe
+C:\Users\Day 2 Day\Desktop\Arraye 2D\obj\Debug\Arraye 2D.pdb
