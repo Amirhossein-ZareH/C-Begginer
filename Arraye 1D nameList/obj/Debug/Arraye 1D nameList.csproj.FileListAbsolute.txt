@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Arraye 1D nameList\bin\Debug\Arraye 1D nameList.exe.config
+C:\Users\Day 2 Day\Desktop\Arraye 1D nameList\bin\Debug\Arraye 1D nameList.exe
+C:\Users\Day 2 Day\Desktop\Arraye 1D nameList\bin\Debug\Arraye 1D nameList.pdb
+C:\Users\Day 2 Day\Desktop\Arraye 1D nameList\obj\Debug\Arraye 1D nameList.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Arraye 1D nameList\obj\Debug\Arraye 1D nameList.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Arraye 1D nameList\obj\Debug\Arraye 1D nameList.exe
+C:\Users\Day 2 Day\Desktop\Arraye 1D nameList\obj\Debug\Arraye 1D nameList.pdb
