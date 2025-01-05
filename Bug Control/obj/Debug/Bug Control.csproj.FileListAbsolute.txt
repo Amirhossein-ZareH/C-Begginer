@@ -1,0 +1,14 @@
+C:\Users\Day 2 Day\Desktop\Bug Control\bin\Debug\Bug Control.exe.config
+C:\Users\Day 2 Day\Desktop\Bug Control\bin\Debug\Bug Control.exe
+C:\Users\Day 2 Day\Desktop\Bug Control\bin\Debug\Bug Control.pdb
+C:\Users\Day 2 Day\Desktop\Bug Control\obj\Debug\Bug Control.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Bug Control\obj\Debug\Bug Control.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Bug Control\obj\Debug\Bug Control.exe
+C:\Users\Day 2 Day\Desktop\Bug Control\obj\Debug\Bug Control.pdb
+E:\C#\C#.Projects\C# Beggineer\Bug Control\bin\Debug\Bug Control.exe.config
+E:\C#\C#.Projects\C# Beggineer\Bug Control\bin\Debug\Bug Control.exe
+E:\C#\C#.Projects\C# Beggineer\Bug Control\bin\Debug\Bug Control.pdb
+E:\C#\C#.Projects\C# Beggineer\Bug Control\obj\Debug\Bug Control.csproj.AssemblyReference.cache
+E:\C#\C#.Projects\C# Beggineer\Bug Control\obj\Debug\Bug Control.csproj.CoreCompileInputs.cache
+E:\C#\C#.Projects\C# Beggineer\Bug Control\obj\Debug\Bug Control.exe
+E:\C#\C#.Projects\C# Beggineer\Bug Control\obj\Debug\Bug Control.pdb
