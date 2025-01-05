@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Boxing\bin\Debug\Boxing.exe.config
+C:\Users\Day 2 Day\Desktop\Boxing\bin\Debug\Boxing.exe
+C:\Users\Day 2 Day\Desktop\Boxing\bin\Debug\Boxing.pdb
+C:\Users\Day 2 Day\Desktop\Boxing\obj\Debug\Boxing Unboxing.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Boxing\obj\Debug\Boxing Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Boxing\obj\Debug\Boxing.exe
+C:\Users\Day 2 Day\Desktop\Boxing\obj\Debug\Boxing.pdb
