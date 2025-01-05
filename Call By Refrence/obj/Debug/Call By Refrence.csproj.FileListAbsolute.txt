@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Call By Refrence\bin\Debug\Call By Refrence.exe.config
+C:\Users\Day 2 Day\Desktop\Call By Refrence\bin\Debug\Call By Refrence.exe
+C:\Users\Day 2 Day\Desktop\Call By Refrence\bin\Debug\Call By Refrence.pdb
+C:\Users\Day 2 Day\Desktop\Call By Refrence\obj\Debug\Call By Refrence.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Call By Refrence\obj\Debug\Call By Refrence.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Call By Refrence\obj\Debug\Call By Refrence.exe
+C:\Users\Day 2 Day\Desktop\Call By Refrence\obj\Debug\Call By Refrence.pdb
