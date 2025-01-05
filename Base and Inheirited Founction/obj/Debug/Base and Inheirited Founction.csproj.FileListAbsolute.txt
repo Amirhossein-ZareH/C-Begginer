@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Base and Inheirited Founction\bin\Debug\Base and Inheirited Founction.exe.config
+C:\Users\Day 2 Day\Desktop\Base and Inheirited Founction\bin\Debug\Base and Inheirited Founction.exe
+C:\Users\Day 2 Day\Desktop\Base and Inheirited Founction\bin\Debug\Base and Inheirited Founction.pdb
+C:\Users\Day 2 Day\Desktop\Base and Inheirited Founction\obj\Debug\Base and Inheirited Founction.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Base and Inheirited Founction\obj\Debug\Base and Inheirited Founction.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Base and Inheirited Founction\obj\Debug\Base and Inheirited Founction.exe
+C:\Users\Day 2 Day\Desktop\Base and Inheirited Founction\obj\Debug\Base and Inheirited Founction.pdb
