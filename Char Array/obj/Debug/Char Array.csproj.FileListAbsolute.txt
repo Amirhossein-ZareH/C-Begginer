@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Char Array\bin\Debug\Char Array.exe.config
+C:\Users\Day 2 Day\Desktop\Char Array\bin\Debug\Char Array.exe
+C:\Users\Day 2 Day\Desktop\Char Array\bin\Debug\Char Array.pdb
+C:\Users\Day 2 Day\Desktop\Char Array\obj\Debug\Char Array.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Char Array\obj\Debug\Char Array.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Char Array\obj\Debug\Char Array.exe
+C:\Users\Day 2 Day\Desktop\Char Array\obj\Debug\Char Array.pdb
