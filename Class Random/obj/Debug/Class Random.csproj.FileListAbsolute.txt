@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Class Random\bin\Debug\Class Random.exe.config
+C:\Users\Day 2 Day\Desktop\Class Random\bin\Debug\Class Random.exe
+C:\Users\Day 2 Day\Desktop\Class Random\bin\Debug\Class Random.pdb
+C:\Users\Day 2 Day\Desktop\Class Random\obj\Debug\Class Random.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Class Random\obj\Debug\Class Random.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Class Random\obj\Debug\Class Random.exe
+C:\Users\Day 2 Day\Desktop\Class Random\obj\Debug\Class Random.pdb
