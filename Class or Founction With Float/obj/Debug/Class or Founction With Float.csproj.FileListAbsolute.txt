@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Class or Founction With Float\bin\Debug\Class or Founction With Float.exe.config
+C:\Users\Day 2 Day\Desktop\Class or Founction With Float\bin\Debug\Class or Founction With Float.exe
+C:\Users\Day 2 Day\Desktop\Class or Founction With Float\bin\Debug\Class or Founction With Float.pdb
+C:\Users\Day 2 Day\Desktop\Class or Founction With Float\obj\Debug\Class or Founction With Float.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Class or Founction With Float\obj\Debug\Class or Founction With Float.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Class or Founction With Float\obj\Debug\Class or Founction With Float.exe
+C:\Users\Day 2 Day\Desktop\Class or Founction With Float\obj\Debug\Class or Founction With Float.pdb
