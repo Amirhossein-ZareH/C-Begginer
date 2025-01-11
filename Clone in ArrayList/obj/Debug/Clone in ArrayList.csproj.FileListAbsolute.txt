@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Clone in ArrayList\bin\Debug\Clone in ArrayList.exe.config
+C:\Users\Day 2 Day\Desktop\Clone in ArrayList\bin\Debug\Clone in ArrayList.exe
+C:\Users\Day 2 Day\Desktop\Clone in ArrayList\bin\Debug\Clone in ArrayList.pdb
+C:\Users\Day 2 Day\Desktop\Clone in ArrayList\obj\Debug\Clone in ArrayList.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Clone in ArrayList\obj\Debug\Clone in ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Clone in ArrayList\obj\Debug\Clone in ArrayList.exe
+C:\Users\Day 2 Day\Desktop\Clone in ArrayList\obj\Debug\Clone in ArrayList.pdb
