@@ -1,0 +1,14 @@
+C:\Users\Day 2 Day\Desktop\Collection Generic2\bin\Debug\Collection Generic2.exe.config
+C:\Users\Day 2 Day\Desktop\Collection Generic2\bin\Debug\Collection Generic2.exe
+C:\Users\Day 2 Day\Desktop\Collection Generic2\bin\Debug\Collection Generic2.pdb
+C:\Users\Day 2 Day\Desktop\Collection Generic2\obj\Debug\Collection Generic2.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Collection Generic2\obj\Debug\Collection Generic2.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Collection Generic2\obj\Debug\Collection Generic2.exe
+C:\Users\Day 2 Day\Desktop\Collection Generic2\obj\Debug\Collection Generic2.pdb
+F:\C#\C#.Projects\Collection Generic2\bin\Debug\Collection Generic2.exe.config
+F:\C#\C#.Projects\Collection Generic2\bin\Debug\Collection Generic2.exe
+F:\C#\C#.Projects\Collection Generic2\bin\Debug\Collection Generic2.pdb
+F:\C#\C#.Projects\Collection Generic2\obj\Debug\Collection Generic2.csproj.AssemblyReference.cache
+F:\C#\C#.Projects\Collection Generic2\obj\Debug\Collection Generic2.csproj.CoreCompileInputs.cache
+F:\C#\C#.Projects\Collection Generic2\obj\Debug\Collection Generic2.exe
+F:\C#\C#.Projects\Collection Generic2\obj\Debug\Collection Generic2.pdb
