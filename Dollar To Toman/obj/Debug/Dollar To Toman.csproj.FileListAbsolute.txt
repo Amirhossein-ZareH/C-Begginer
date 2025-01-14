@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Dollar To Toman\bin\Debug\Dollar To Toman.exe.config
+C:\Users\Day 2 Day\Desktop\Dollar To Toman\bin\Debug\Dollar To Toman.exe
+C:\Users\Day 2 Day\Desktop\Dollar To Toman\bin\Debug\Dollar To Toman.pdb
+C:\Users\Day 2 Day\Desktop\Dollar To Toman\obj\Debug\Dollar To Toman.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Dollar To Toman\obj\Debug\Dollar To Toman.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Dollar To Toman\obj\Debug\Dollar To Toman.exe
+C:\Users\Day 2 Day\Desktop\Dollar To Toman\obj\Debug\Dollar To Toman.pdb
