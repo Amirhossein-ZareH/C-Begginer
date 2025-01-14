@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Data Type\bin\Debug\Data Type.exe.config
+C:\Users\Day 2 Day\Desktop\Data Type\bin\Debug\Data Type.exe
+C:\Users\Day 2 Day\Desktop\Data Type\bin\Debug\Data Type.pdb
+C:\Users\Day 2 Day\Desktop\Data Type\obj\Debug\Data Type.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Data Type\obj\Debug\Data Type.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Data Type\obj\Debug\Data Type.exe
+C:\Users\Day 2 Day\Desktop\Data Type\obj\Debug\Data Type.pdb
