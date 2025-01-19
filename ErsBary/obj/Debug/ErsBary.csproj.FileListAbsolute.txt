@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\ErsBary\bin\Debug\ErsBary.exe.config
+C:\Users\Day 2 Day\Desktop\ErsBary\bin\Debug\ErsBary.exe
+C:\Users\Day 2 Day\Desktop\ErsBary\bin\Debug\ErsBary.pdb
+C:\Users\Day 2 Day\Desktop\ErsBary\obj\Debug\ErsBary.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\ErsBary\obj\Debug\ErsBary.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\ErsBary\obj\Debug\ErsBary.exe
+C:\Users\Day 2 Day\Desktop\ErsBary\obj\Debug\ErsBary.pdb
