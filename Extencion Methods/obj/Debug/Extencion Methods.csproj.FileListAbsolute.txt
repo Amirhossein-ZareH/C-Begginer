@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Extencion Methods\bin\Debug\Extencion Methods.exe.config
+C:\Users\Day 2 Day\Desktop\Extencion Methods\bin\Debug\Extencion Methods.exe
+C:\Users\Day 2 Day\Desktop\Extencion Methods\bin\Debug\Extencion Methods.pdb
+C:\Users\Day 2 Day\Desktop\Extencion Methods\obj\Debug\Extencion Methods.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Extencion Methods\obj\Debug\Extencion Methods.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Extencion Methods\obj\Debug\Extencion Methods.exe
+C:\Users\Day 2 Day\Desktop\Extencion Methods\obj\Debug\Extencion Methods.pdb
