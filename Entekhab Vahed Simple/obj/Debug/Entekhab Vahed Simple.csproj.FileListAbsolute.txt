@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Entekhab Vahed Simple\bin\Debug\Entekhab Vahed Simple.exe.config
+C:\Users\Day 2 Day\Desktop\Entekhab Vahed Simple\bin\Debug\Entekhab Vahed Simple.exe
+C:\Users\Day 2 Day\Desktop\Entekhab Vahed Simple\bin\Debug\Entekhab Vahed Simple.pdb
+C:\Users\Day 2 Day\Desktop\Entekhab Vahed Simple\obj\Debug\Entekhab Vahed Simple.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Entekhab Vahed Simple\obj\Debug\Entekhab Vahed Simple.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Entekhab Vahed Simple\obj\Debug\Entekhab Vahed Simple.exe
+C:\Users\Day 2 Day\Desktop\Entekhab Vahed Simple\obj\Debug\Entekhab Vahed Simple.pdb
