@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Founction XML\bin\Debug\Founction XML.exe.config
+C:\Users\Day 2 Day\Desktop\Founction XML\bin\Debug\Founction XML.exe
+C:\Users\Day 2 Day\Desktop\Founction XML\bin\Debug\Founction XML.pdb
+C:\Users\Day 2 Day\Desktop\Founction XML\obj\Debug\Founction XML.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Founction XML\obj\Debug\Founction XML.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Founction XML\obj\Debug\Founction XML.exe
+C:\Users\Day 2 Day\Desktop\Founction XML\obj\Debug\Founction XML.pdb
