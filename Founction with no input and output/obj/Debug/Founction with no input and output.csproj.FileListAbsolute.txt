@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Founction with no input and output\bin\Debug\Founction with no input and output.exe.config
+C:\Users\Day 2 Day\Desktop\Founction with no input and output\bin\Debug\Founction with no input and output.exe
+C:\Users\Day 2 Day\Desktop\Founction with no input and output\bin\Debug\Founction with no input and output.pdb
+C:\Users\Day 2 Day\Desktop\Founction with no input and output\obj\Debug\Founction with no input and output.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Founction with no input and output\obj\Debug\Founction with no input and output.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Founction with no input and output\obj\Debug\Founction with no input and output.exe
+C:\Users\Day 2 Day\Desktop\Founction with no input and output\obj\Debug\Founction with no input and output.pdb
