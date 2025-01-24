@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Interface Question\bin\Debug\Interface Question.exe.config
+C:\Users\Day 2 Day\Desktop\Interface Question\bin\Debug\Interface Question.exe
+C:\Users\Day 2 Day\Desktop\Interface Question\bin\Debug\Interface Question.pdb
+C:\Users\Day 2 Day\Desktop\Interface Question\obj\Debug\Interface Question.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Interface Question\obj\Debug\Interface Question.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Interface Question\obj\Debug\Interface Question.exe
+C:\Users\Day 2 Day\Desktop\Interface Question\obj\Debug\Interface Question.pdb
