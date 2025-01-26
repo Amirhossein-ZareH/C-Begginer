@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Jagged Array\obj\Debug\Jagged Array.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Jagged Array\obj\Debug\Jagged Array.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Jagged Array\bin\Debug\Jagged Array.exe.config
+C:\Users\Day 2 Day\Desktop\Jagged Array\bin\Debug\Jagged Array.exe
+C:\Users\Day 2 Day\Desktop\Jagged Array\bin\Debug\Jagged Array.pdb
+C:\Users\Day 2 Day\Desktop\Jagged Array\obj\Debug\Jagged Array.exe
+C:\Users\Day 2 Day\Desktop\Jagged Array\obj\Debug\Jagged Array.pdb
