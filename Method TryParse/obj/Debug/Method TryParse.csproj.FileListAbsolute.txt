@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Method TryParse\bin\Debug\Method TryParse.exe.config
+C:\Users\Day 2 Day\Desktop\Method TryParse\bin\Debug\Method TryParse.exe
+C:\Users\Day 2 Day\Desktop\Method TryParse\bin\Debug\Method TryParse.pdb
+C:\Users\Day 2 Day\Desktop\Method TryParse\obj\Debug\Method TryParse.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Method TryParse\obj\Debug\Method TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Method TryParse\obj\Debug\Method TryParse.exe
+C:\Users\Day 2 Day\Desktop\Method TryParse\obj\Debug\Method TryParse.pdb
