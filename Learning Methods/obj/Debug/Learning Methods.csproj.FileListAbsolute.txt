@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Learning Methods\bin\Debug\Learning Methods.exe.config
+C:\Users\Day 2 Day\Desktop\Learning Methods\bin\Debug\Learning Methods.exe
+C:\Users\Day 2 Day\Desktop\Learning Methods\bin\Debug\Learning Methods.pdb
+C:\Users\Day 2 Day\Desktop\Learning Methods\obj\Debug\Learning Methods.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Learning Methods\obj\Debug\Learning Methods.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Learning Methods\obj\Debug\Learning Methods.exe
+C:\Users\Day 2 Day\Desktop\Learning Methods\obj\Debug\Learning Methods.pdb
