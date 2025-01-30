@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\OOP (This)\bin\Debug\OOP (This).exe.config
+C:\Users\Day 2 Day\Desktop\OOP (This)\bin\Debug\OOP (This).exe
+C:\Users\Day 2 Day\Desktop\OOP (This)\bin\Debug\OOP (This).pdb
+C:\Users\Day 2 Day\Desktop\OOP (This)\obj\Debug\OOP (This).csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\OOP (This)\obj\Debug\OOP (This).csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\OOP (This)\obj\Debug\OOP (This).exe
+C:\Users\Day 2 Day\Desktop\OOP (This)\obj\Debug\OOP (This).pdb
