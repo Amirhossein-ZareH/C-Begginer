@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Persian Calender\bin\Debug\Persian Calender.exe.config
+C:\Users\Day 2 Day\Desktop\Persian Calender\bin\Debug\Persian Calender.exe
+C:\Users\Day 2 Day\Desktop\Persian Calender\bin\Debug\Persian Calender.pdb
+C:\Users\Day 2 Day\Desktop\Persian Calender\obj\Debug\Persian Calender.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Persian Calender\obj\Debug\Persian Calender.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Persian Calender\obj\Debug\Persian Calender.exe
+C:\Users\Day 2 Day\Desktop\Persian Calender\obj\Debug\Persian Calender.pdb
