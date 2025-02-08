@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Printing Matrix With 0 and 1\bin\Debug\Printing Matrix With 0 and 1.exe.config
+C:\Users\Day 2 Day\Desktop\Printing Matrix With 0 and 1\bin\Debug\Printing Matrix With 0 and 1.exe
+C:\Users\Day 2 Day\Desktop\Printing Matrix With 0 and 1\bin\Debug\Printing Matrix With 0 and 1.pdb
+C:\Users\Day 2 Day\Desktop\Printing Matrix With 0 and 1\obj\Debug\Printing Matrix With 0 and 1.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Printing Matrix With 0 and 1\obj\Debug\Printing Matrix With 0 and 1.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Printing Matrix With 0 and 1\obj\Debug\Printing Matrix With 0 and 1.exe
+C:\Users\Day 2 Day\Desktop\Printing Matrix With 0 and 1\obj\Debug\Printing Matrix With 0 and 1.pdb
