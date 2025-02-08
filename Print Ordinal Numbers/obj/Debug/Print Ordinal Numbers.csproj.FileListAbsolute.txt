@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Print Ordinal Numbers\bin\Debug\Print Ordinal Numbers.exe.config
+C:\Users\Day 2 Day\Desktop\Print Ordinal Numbers\bin\Debug\Print Ordinal Numbers.exe
+C:\Users\Day 2 Day\Desktop\Print Ordinal Numbers\bin\Debug\Print Ordinal Numbers.pdb
+C:\Users\Day 2 Day\Desktop\Print Ordinal Numbers\obj\Debug\Print Ordinal Numbers.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Print Ordinal Numbers\obj\Debug\Print Ordinal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Print Ordinal Numbers\obj\Debug\Print Ordinal Numbers.exe
+C:\Users\Day 2 Day\Desktop\Print Ordinal Numbers\obj\Debug\Print Ordinal Numbers.pdb
