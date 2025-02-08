@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Printing Star\bin\Debug\Printing Star.exe.config
+C:\Users\Day 2 Day\Desktop\Printing Star\bin\Debug\Printing Star.exe
+C:\Users\Day 2 Day\Desktop\Printing Star\bin\Debug\Printing Star.pdb
+C:\Users\Day 2 Day\Desktop\Printing Star\obj\Debug\Printing Star.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Printing Star\obj\Debug\Printing Star.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Printing Star\obj\Debug\Printing Star.exe
+C:\Users\Day 2 Day\Desktop\Printing Star\obj\Debug\Printing Star.pdb
