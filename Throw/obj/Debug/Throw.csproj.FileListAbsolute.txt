@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Throw\bin\Debug\Throw.exe.config
+C:\Users\Day 2 Day\Desktop\Throw\bin\Debug\Throw.exe
+C:\Users\Day 2 Day\Desktop\Throw\bin\Debug\Throw.pdb
+C:\Users\Day 2 Day\Desktop\Throw\obj\Debug\Throw.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Throw\obj\Debug\Throw.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Throw\obj\Debug\Throw.exe
+C:\Users\Day 2 Day\Desktop\Throw\obj\Debug\Throw.pdb
