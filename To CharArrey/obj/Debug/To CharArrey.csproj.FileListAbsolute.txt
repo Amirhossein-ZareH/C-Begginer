@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\To CharArrey\bin\Debug\To CharArrey.exe.config
+C:\Users\Day 2 Day\Desktop\To CharArrey\bin\Debug\To CharArrey.exe
+C:\Users\Day 2 Day\Desktop\To CharArrey\bin\Debug\To CharArrey.pdb
+C:\Users\Day 2 Day\Desktop\To CharArrey\obj\Debug\To CharArrey.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\To CharArrey\obj\Debug\To CharArrey.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\To CharArrey\obj\Debug\To CharArrey.exe
+C:\Users\Day 2 Day\Desktop\To CharArrey\obj\Debug\To CharArrey.pdb
