@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Tamirn (1)\bin\Debug\Tamirn (1).exe.config
+C:\Users\Day 2 Day\Desktop\Tamirn (1)\bin\Debug\Tamirn (1).exe
+C:\Users\Day 2 Day\Desktop\Tamirn (1)\bin\Debug\Tamirn (1).pdb
+C:\Users\Day 2 Day\Desktop\Tamirn (1)\obj\Debug\Tamirn (1).csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Tamirn (1)\obj\Debug\Tamirn (1).csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Tamirn (1)\obj\Debug\Tamirn (1).exe
+C:\Users\Day 2 Day\Desktop\Tamirn (1)\obj\Debug\Tamirn (1).pdb
